@@ -5,3 +5,4 @@ print(str)
 print(str[0:9])
 
 
+
